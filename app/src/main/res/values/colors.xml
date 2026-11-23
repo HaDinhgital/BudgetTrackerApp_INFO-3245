@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#F6F7FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1A1C24</color>
+    <color name="text_secondary">#5F6475</color>
+    <color name="outline">#E2E5EE</color>
+    <color name="brand">#2E6BE6</color>
+    <color name="ok">#1F8A5B</color>
+    <color name="warn">#B26A00</color>
+    <color name="over">#C62828</color>
+    <color name="track">#E6E9F2</color>
+</resources>

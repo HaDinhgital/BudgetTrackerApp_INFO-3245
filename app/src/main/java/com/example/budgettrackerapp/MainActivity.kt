@@ -20,9 +20,9 @@ class MainActivity : AppCompatActivity() {
         nav.setOnItemSelectedListener { item ->
             when (item.itemId) {
                 R.id.nav_home -> show(HomeFragment())
-                // R.id.nav_budgets -> show(BudgetsFragment())
-                // R.id.nav_transactions -> show(TransactionsFragment())
-                // R.id.nav_goals -> show(GoalsFragment())
+                R.id.nav_budgets -> show(BudgetsFragment())
+                R.id.nav_transactions -> show(TransactionsFragment())
+                R.id.nav_settings -> show(SettingsFragment())
             }
             true
         }

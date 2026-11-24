@@ -21,6 +21,7 @@ object SampleData {
         CategorySpend("🍔 Food", 340.0, 400.0),
         CategorySpend("🚌 Transport", 140.0, 120.0),
         CategorySpend("🎬 Fun", 60.0, 150.0),
+        CategorySpend("📦 Others", 400.0, 500.0),
     )
 
     val transactions = listOf(
